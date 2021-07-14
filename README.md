@@ -1,1 +1,2 @@
-# first-mechanical-task
+# First Mechanical Task
+The robot arm design is 
